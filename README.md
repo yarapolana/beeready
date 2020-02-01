@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">🐝 BeeReady React Website</h1>
-<p>A source of all practical knowledge - A project for Hyper Island BD20. Read the description.</p>
+<p align="center">A source of all practical knowledge - A project for Hyper Island BD20. Read the description.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/package-json/dependency-version/yarapolana/facebook-webpack-front/react.svg" >
-  <img src="https://img.shields.io/netlify/e7655818-34d1-4c4c-9efa-fa6b86d69d85" />
-  <img src="https://img.shields.io/github/license/yarapolana/facebook-webpack-front.svg" >
+  <img src="https://img.shields.io/github/package-json/dependency-version/yarapolana/beeready/react.svg" >
+  <img src="https://img.shields.io/netlify/fb151a30-1618-42cf-ac3c-6f739b9db7c2" />
+  <img src="https://img.shields.io/github/license/yarapolana/beeready.svg" >
   <a href="https://yarapolana.com"><img src="https://img.shields.io/badge/createdby-yarapolana-red.svg" ></a>
 </p>
 
